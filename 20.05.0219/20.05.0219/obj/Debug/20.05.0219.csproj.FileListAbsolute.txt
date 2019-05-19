@@ -1,0 +1,7 @@
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\bin\Debug\20.05.0219.exe.config
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\bin\Debug\20.05.0219.exe
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\bin\Debug\20.05.0219.pdb
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\obj\Debug\20.05.0219.csprojAssemblyReference.cache
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\obj\Debug\20.05.0219.csproj.CoreCompileInputs.cache
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\obj\Debug\20.05.0219.exe
+D:\code academy\c#\ByMeHomeWork\20.05.0219\20.05.0219\obj\Debug\20.05.0219.pdb
